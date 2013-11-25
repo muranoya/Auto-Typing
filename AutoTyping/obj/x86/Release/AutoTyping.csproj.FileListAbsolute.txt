@@ -1,0 +1,20 @@
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\bin\Release\AutoTyping.exe.config
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\bin\Release\AutoTyping.exe
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\bin\Release\AutoTyping.pdb
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Release\AutoTyping.Form1.resources
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Release\AutoTyping.Properties.Resources.resources
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Release\AutoTyping.exe
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Release\AutoTyping.pdb
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\bin\Release\AutoTyping.exe.config
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Release\AutoTyping.exe
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Release\AutoTyping.pdb
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\bin\Release\AutoTyping.exe
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\bin\Release\AutoTyping.pdb
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Release\AutoTyping.Form1.resources
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Release\AutoTyping.Properties.Resources.resources
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Release\GenerateResource.write.1.tlog

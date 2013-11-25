@@ -1,0 +1,21 @@
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\bin\Debug\AutoTyping.exe.config
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\bin\Debug\AutoTyping.exe
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\bin\Debug\AutoTyping.pdb
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.Form1.resources
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.Properties.Resources.resources
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.exe
+c:\users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.pdb
+C:\Users\muraoka\documents\visual studio 2010\Projects\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.SelectStartKeyWindow.resources
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\bin\Debug\AutoTyping.exe.config
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.exe
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.pdb
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\bin\Debug\AutoTyping.exe
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\bin\Debug\AutoTyping.pdb
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.Form1.resources
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Debug\AutoTyping.Properties.Resources.resources
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\muraoka\Documents\GitHub\AutoTyping\AutoTyping\obj\x86\Debug\GenerateResource.write.1.tlog
